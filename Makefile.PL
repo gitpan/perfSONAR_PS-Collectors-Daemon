@@ -18,7 +18,7 @@ WriteMakefile(
 	"Module::Load" => 0.10,
 	"Time::HiRes" => 1.85,
 	"Config::General" => 2.30,
-	"perfSONAR_PS::Common" => 0.01,
+	"perfSONAR_PS::Common" => 0.02,
     },
 
     EXE_FILES => \@exe_files,
